@@ -1,1 +1,3 @@
 katzDeliLine = [];
+
+define takeANumber()
